@@ -13,5 +13,6 @@
     "astro": "^4.4.15",
     "@astrojs/check": "^0.5.6",
     "typescript": "^5.4.2"
-  }
+  },
+  "repository": "https://github.com/g-fengchen/astro-demo.git"
 }
